@@ -10,14 +10,14 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack(alignment: .leading) {
-            Text("Colborne Lodge")
+            Text("Turtle Rock")
                 .font(.title)
                 .foregroundColor(.green)
             HStack {
-                Text("High Park")
+                Text("Joshua Tree National Park")
                     .font(.subheadline)
                 Spacer()
-                Text("Toronto, ON")
+                Text("California")
                     .font(.subheadline)
             }
         }
