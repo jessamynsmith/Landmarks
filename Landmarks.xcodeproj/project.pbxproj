@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F49FE9A3296BC62300257783 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F49FE9A2296BC62300257783 /* FavoriteButton.swift */; };
 		F4C1C568296B499500A8D297 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C1C567296B499500A8D297 /* LandmarksApp.swift */; };
 		F4C1C56A296B499500A8D297 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4C1C569296B499500A8D297 /* ContentView.swift */; };
 		F4C1C56C296B499700A8D297 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4C1C56B296B499700A8D297 /* Assets.xcassets */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F49FE9A2296BC62300257783 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 		F4C1C564296B499500A8D297 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4C1C567296B499500A8D297 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		F4C1C569296B499500A8D297 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				F4C1C59E296B60B700A8D297 /* LandmarkRow.swift */,
 				F4C1C5A0296B62AA00A8D297 /* LandmarkList.swift */,
 				F4C1C5A2296B649000A8D297 /* LandmarkDetail.swift */,
+				F49FE9A2296BC62300257783 /* FavoriteButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 				F4C1C56A296B499500A8D297 /* ContentView.swift in Sources */,
 				F4C1C594296B507800A8D297 /* MapView.swift in Sources */,
 				F4C1C568296B499500A8D297 /* LandmarksApp.swift in Sources */,
+				F49FE9A3296BC62300257783 /* FavoriteButton.swift in Sources */,
 				F4C1C5A1296B62AA00A8D297 /* LandmarkList.swift in Sources */,
 				F4C1C5A3296B649000A8D297 /* LandmarkDetail.swift in Sources */,
 				F4C1C592296B4EDC00A8D297 /* CircleImage.swift in Sources */,
